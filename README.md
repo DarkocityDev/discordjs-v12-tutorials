@@ -11,7 +11,7 @@
 <!-- ABOUT THE PROJECT -->
 ## 📜 About The Project
 
-This is for my YouTube tutorials on Discord.js. I love to program and create new things and some people cant. I was there once too. This repository will be for people to view the code that is avalible on my YouTube. Thanks for checking!
+This is for my YouTube tutorials on Discord.js. I love to program and create new things and some people cant. I was there once too. This repository will be for people to view the code that is available on my YouTube. Thanks for checking!
 
 
 ### 📝 Built With
