@@ -1,6 +1,5 @@
 <h1 align="center" style="position: relative;">
-    <img width="200" style="border-radius: 50%;" src="./assets/Transparent/vertix-transparent-large.png"/><br>
-    VERTIX DISCORD BOT
+    DISCORD BOT TUTORIAL
 </h1>
 
 <p align="center">
