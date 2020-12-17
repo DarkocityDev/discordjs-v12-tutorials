@@ -34,4 +34,6 @@ This is for my YouTube tutorials on Discord.js. I love to program and create new
 * [Blake Alford](https://github.com/blakealford)
 * [Hector Rosales](https://github.com/zeekzcantcode)
 
+*Thanks for reading*
+
 
