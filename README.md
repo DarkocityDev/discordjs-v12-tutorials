@@ -23,7 +23,7 @@ This is for my YouTube tutorials on Discord.js. I love to program and create new
 <!-- CONTACT -->
 ## 📬 Contact Me
 
-- 🌎 Geniton - [@VertixStudios](https://geniton.com)  
+- 🌎 Geniton - [geniton.com](https://geniton.com)  
 - Email - [contact@geniton.com](https://geniton.com/contact)
 - Project Link: [https://github.com/ZeekzAtGeniton/discordjs-v12-tutorials](https://github.com/ZeekzAtGeniton/discordjs-v12-tutorials)
 - Discord: [https://discord.gg/aakPNd4](https://discord.gg/aakPNd4) 
